@@ -8,3 +8,4 @@
 * [Promise.race](promise.race.md)
 * [Array.prototype.concat](array.prototype.concat.md)
 * [Flatten](flatten.md)
+* [Promise.all](promise.all.md)
